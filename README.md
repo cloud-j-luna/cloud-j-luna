@@ -39,7 +39,7 @@ I use a wide range of technologies on my projects, including:
 
 #### My Numbers
 
-On my public repos:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-luna-98&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-luna-98&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
