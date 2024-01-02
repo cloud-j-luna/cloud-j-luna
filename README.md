@@ -39,9 +39,9 @@ I use a wide range of technologies on my projects, including:
 
 #### My Numbers
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-luna-98&show_icons=true&bg_color=30,2b5876,4e4376&title_color=fff&text_color=fff&icon_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloud-j-luna&show_icons=true&bg_color=30,2b5876,4e4376&title_color=fff&text_color=fff&icon_color=fff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-luna-98&layout=compact&theme=vision-friendly-dark&bg_color=30,2b5876,4e4376&title_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-j-luna&layout=compact&theme=vision-friendly-dark&bg_color=30,2b5876,4e4376&title_color=fff)
 
 ### I'm Multi-Cloud! ☁️
 
