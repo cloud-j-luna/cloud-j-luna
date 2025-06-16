@@ -4,12 +4,9 @@ I'm a Cloud Engineer with a Master's in Software Engineering.
 
 You'll find some of my projects in my repositories.
 
-Big fan of <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>&nbsp; products.
-
-- 🌱 I’m currently learning Go. Having fun.
+- 📚 Go engineer.
 - 🖥️ I'm always eager to contribute to open source projects!
-- 🔨 If you are looking for a distributed system developer, connect with me.
-- 🔭 I’m currently working the future of Cloud Computing and AI.
+- 🔨 Building distributed systems and the future of Cloud Computing and AI.
 
 ### My Tech Stack 🤖
 
