@@ -24,9 +24,3 @@ I use a wide range of technologies on my projects, including:
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
 
 </div>
-
-#### My Numbers
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloud-j-luna&show_icons=true&bg_color=30,2b5876,4e4376&title_color=fff&text_color=fff&icon_color=fff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-j-luna&layout=compact&theme=vision-friendly-dark&bg_color=30,2b5876,4e4376&title_color=fff)
